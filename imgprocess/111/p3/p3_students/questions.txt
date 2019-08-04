@@ -1,0 +1,9 @@
+//ask about the tcb struct 
+//deadline vs task duration
+//waht is edf shortest task or ... just tcb->dealine
+//also line iter * tcp->period 
+//this works for 1st 2 but at 6000 3*4000+ 4000 = 1600 ???
+//rate moonotonic
+// tcb->task_time/tcb->deadline  = 
+//shorter period  = higher priority 
+
